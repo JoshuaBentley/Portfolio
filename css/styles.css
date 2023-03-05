@@ -602,8 +602,13 @@ progress {
   content: "— ";
 }
 
-.img-fluid {
+.selfie{
   max-width: 50%;
+  height: auto;
+}
+
+.img-fluid {
+  max-width: 75%;
   height: auto;
 }
 
